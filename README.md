@@ -1,4 +1,4 @@
-[![YT Short of production](http://img.youtube.com/vi/shorts/79FPZo9IJZc/EndlessRunnerIn60seconds.jpg)](https://www.youtube.com/shorts/79FPZo9IJZc)
+[![YT Short of production](https://imgur.com/pmb5yPw)](https://www.youtube.com/shorts/79FPZo9IJZc)
 
 1. Usunąć wszystkie niepotrzebne rzeczy z Levelu
 
