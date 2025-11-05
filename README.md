@@ -1,4 +1,4 @@
-[![YT Short of production](https://imgur.com/a/90ng0Df)](https://www.youtube.com/shorts/79FPZo9IJZc)
+[![YT Short of production]("https://imgur.com/a/90ng0Df")]("https://www.youtube.com/shorts/79FPZo9IJZc")
 
 1. Usunąć wszystkie niepotrzebne rzeczy z Levelu
 
@@ -159,10 +159,13 @@
    p. Oraz na koniec pod Event Construct WBP_EndGame podpinamy ten binding:
    
    <img width="632" height="322" alt="image" src="https://github.com/user-attachments/assets/fdfb2f49-1236-493c-a3b2-caf699582a4e" />
-11. Ostatnie finishe - restarowanie gry:
-
-   a. Na koniec do GameMode dodajemy coś takiego:
    
-   <img width="652" height="280" alt="image" src="https://github.com/user-attachments/assets/67c079aa-c258-48ee-a74c-d9d0825040d8" />
+11. Ostatnie finishe - restarowanie gry:
+   
+    a. Na koniec do GameMode dodajemy coś takiego:
+
+    <img width="652" height="280" alt="image" src="https://github.com/user-attachments/assets/67c079aa-c258-48ee-a74c-d9d0825040d8" />
+
     b. Oraz do Charactera:
+
     <img width="307" height="100" alt="image" src="https://github.com/user-attachments/assets/1df73af9-90f6-490a-8773-76b9215b8a3b" />
